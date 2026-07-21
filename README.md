@@ -13,6 +13,7 @@ Aplicações e serviços que implemento, instalo e administro no dia a dia em am
 - **Node.js / Express / Ruby on Rails** — Backend de aplicações
 - **PostgreSQL / MongoDB / Redis** — Bancos de dados e cache
 - **pfSense** — Firewall e roteamento de rede
+- **UniFi Network** — Gestão de Access Points, switches e controlador de rede
 - **Cloudflare Tunnels** — Exposição segura de serviços
 - **DevOps & Automação** — Scripts Bash/Python, CI/CD
 
@@ -33,7 +34,7 @@ Aplicações e serviços que implemento, instalo e administro no dia a dia em am
 - loki (Logs)
 - netbox (Inventário)
 - alertmanager (Alertas)
-- unifi-network-app (Controlador WiFi)
+- unifi-network-app (Controlador de rede UniFi — APs, switches e VLANs)
 
 ### Totem de Atendimento
 
