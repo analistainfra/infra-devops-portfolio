@@ -18,7 +18,7 @@ Aplicações e serviços que implemento, instalo e administro no dia a dia em am
 
 ## 📦 Serviços Implementados por Ambiente
 
-### CT200 — Docker / Serviços Web
+### Docker / Serviços Web
 
 - cloudflared-proxmox (Cloudflare Tunnel)
 - proxmox-nginx-proxy (Reverse Proxy)
@@ -26,7 +26,7 @@ Aplicações e serviços que implemento, instalo e administro no dia a dia em am
 - whatomate (WhatsApp Automation)
 - portainer (Docker Management)
 
-### CT210 — Monitoramento
+### Monitoramento
 
 - prometheus (Métricas)
 - grafana (Dashboards)
@@ -35,7 +35,7 @@ Aplicações e serviços que implemento, instalo e administro no dia a dia em am
 - alertmanager (Alertas)
 - unifi-network-app (Controlador WiFi)
 
-### CT220 — Totem de Atendimento
+### Totem de Atendimento
 
 - Frontend em Next.js
 - API em Express
@@ -43,7 +43,7 @@ Aplicações e serviços que implemento, instalo e administro no dia a dia em am
 - Redis Cache
 - MinIO Storage
 
-### CT230 — Chatwoot (Suporte ao Cliente)
+### Chatwoot (Suporte ao Cliente)
 
 - Ruby on Rails
 - Integração com WhatsApp
